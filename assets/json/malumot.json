@@ -1,0 +1,124 @@
+[
+  {
+    "image": "https://ru.citaty.net/media/authors/lionel-messi.jpeg",
+    "club": "Barcelona",
+    "name": "Leo Messi",
+    "nomer": 10,
+    "years": "24 July 1987",
+    "counrty": "Argentina",
+    "position": "attack",
+    "height": "170 cm",
+    "fit": "72 kg",
+    "logo": "https://besthqwallpapers.com/Uploads/23-8-2017/19198/thumb2-barcelona-fc-professional-football-club-barcelona-emblem-barcelona-logo-la-liga.jpg"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bra-Cos_%281%29_%28cropped%29.jpg/350px-Bra-Cos_%281%29_%28cropped%29.jpg",
+    "club": "Paris Saint-Germain",
+    "name": "Neymar Jr",
+    "nomer": 10,
+    "years": "5 February 1992",
+    "counrty": "Brazil",
+    "position": "striker",
+    "height": "175 cm",
+    "fit": "68 kg",
+    "logo": "https://ae01.alicdn.com/kf/H0f986f6123724afea1c14f65639a5a7aw.jpg"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mo_Salah_2018.png/375px-Mo_Salah_2018.png",
+    "club": "Liverpool",
+    "name": "Muhammad Salah",
+    "nomer": 10,
+    "years": "15 June 1992",
+    "counrty": "Egypt",
+    "position": "attack",
+    "height": "175 cm",
+    "fit": "73 kg",
+    "logo": "https://i.pinimg.com/originals/f4/77/91/f47791c0b7b3528021dfd37865c223f3.jpg"
+
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mesut_%C3%96zil_at_Baku_before_2019_UEFA_Europe_League_Final.jpg/375px-Mesut_%C3%96zil_at_Baku_before_2019_UEFA_Europe_League_Final.jpg",
+    "club": "Fenerbahce",
+    "name": "Mesut Ozil",
+    "nomer": 11,
+    "years": "15 October 1988",
+    "counrty": "Germany",
+    "position": "attacking midfielder",
+    "height": "180 cm",
+    "fit": "76 kg",
+    "logo": "https://cdna.artstation.com/p/marketplace/presentation_assets/000/504/982/large/file.jpg?1599489725"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg/350px-2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_%28cropped%29.jpg",
+    "club": "Paris Saint-Germain",
+    "name": "Kylian Mbappe",
+    "nomer": 7,
+    "years": "20 December 1998",
+    "counrty": "France",
+    "position": "attack",
+    "height": "178 cm",
+    "fit": "73 kg",
+    "logo": "https://ae01.alicdn.com/kf/H0f986f6123724afea1c14f65639a5a7aw.jpg"
+  },
+  {
+    "image": "https://www.wothappen.com/wp-content/uploads/2021/03/Screenshot_20210311-191853-1024x663.jpg",
+    "club": "Manchester United ",
+    "name": "Paul Pogba",
+    "nomer": 6,
+    "years": "15 March 1993",
+    "counrty": "Lagny-sur-Marne, France",
+    "position": "attacking midfielder",
+    "height": "191 cm",
+    "fit": "84 kg",
+    "logo": "https://cdn.shopify.com/s/files/1/1603/4747/products/manchester-united-logo-1-neon-like-led-sign-dual-color-green-and-blue-9.jpg?v=1574447295"
+  },
+  {
+    "image":"https://i.ytimg.com/vi/rdPXOlfVfLU/maxresdefault.jpg",
+    "club": "Barcelona",
+    "name": "Antoine Griezmann",
+    "nomer": 7,
+    "years": "21 March 1991",
+    "counrty": "French",
+    "position": "Forward",
+    "height": "176 cm",
+    "fit": "64 kg",
+    "logo": "https://besthqwallpapers.com/Uploads/23-8-2017/19198/thumb2-barcelona-fc-professional-football-club-barcelona-emblem-barcelona-logo-la-liga.jpg"
+
+  },
+  {
+    "image":"https://www.leagueteamupdates.com/wp-content/uploads/2017/11/Estimated-Cristiano-Ronaldo-Net-Worth.jpg",
+    "club": "Juventus",
+    "name": "Cristiano Ronaldo",
+    "nomer": 7,
+    "years": "5 February 1985",
+    "counrty": "Portuguese",
+    "position": "Forward",
+    "height": "185 cm",
+    "fit": "81 kg",
+    "logo": "https://images-na.ssl-images-amazon.com/images/I/91AGl3%2B4waL._SL1500_.jpg"
+  },
+  {
+    "image":"https://biowikis.com/wp-content/uploads/2018/12/Luka-Modric-with-Ballon-DOr.jpg",
+    "club": "Real Madrid",
+    "name": "Luka Modrić",
+    "nomer": 10,
+    "years": "9 September 1985",
+    "counrty": "Croatia",
+    "position": "Midfielder",
+    "height": "172 cm",
+    "fit": "65 kg",
+    "logo": "https://images6.alphacoders.com/961/thumb-1920-961109.jpg"
+  },
+  {
+    "image": "https://www.itl.cat/pngfile/big/43-430286_gareth-bale-wallpapers-santiago-bernabu-stadium.png",
+    "club": "Real Madrid",
+    "name": "Gareth Bale",
+    "nomer": 11,
+    "years": "16 July 1989",
+    "counrty": "Cardiff, Wales",
+    "position": "Right Winger",
+    "height": "1.85 m",
+    "fit": "81 kg",
+    "logo": "https://images6.alphacoders.com/961/thumb-1920-961109.jpg"
+  }
+]
