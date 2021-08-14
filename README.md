@@ -1,16 +1,12 @@
-# aliaxr
+# Football Player Bio
 
-A new Flutter project.
+<a href="https://ibb.co/vX0jnL1"><img src="https://i.ibb.co/1zFmWRZ/111.jpg" alt="111" border="0" width=100></a>
+<a href="https://ibb.co/LdLyWjp"><img src="https://i.ibb.co/N28qPDY/222.jpg" alt="222" border="0" width=100></a>
+<a href="https://ibb.co/ZWsczfy"><img src="https://i.ibb.co/dG9k4fn/333.jpg" alt="333" border="0" width=100></a>
+<a href="https://ibb.co/TkJmbcX"><img src="https://i.ibb.co/bPYz21h/444.jpg" alt="444" border="0" width=100></a>
+# Picture App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## flutter pub get
+## flutter run
